@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My languages:
-- JavaScript (NodeJS, TypeScript, React/React Native)
+- JavaScript, TypeScript (NodeJS, React/React Native)
 - Delphi/Pascal
 - Go
 
